@@ -2,12 +2,12 @@
 - [X] Alfa = Raykel
 - [X] Bravo = Stephen 
 - [ ] Charlie = Geffry
-- [ ] Delta = Darianny
-- [ ] Echo = Manuel
+- [X] Delta = Darianny
+- [X] Echo = Manuel
 
 # Seleccione el tipo de actividad
 - [X] Feature
 - [X] Hotfix
 - [ ] Refactor
-- [ ] Performance
-- [ ] Testing
+- [X] Performance
+- [X] Testing
